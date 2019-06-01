@@ -1,0 +1,75 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CmnCtrl1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/CmnCtrl1.res" /d "_DEBUG" /d "_AFXDLL" "E:\codes\mfc\component\CmnCtrl1\CmnCtrl1.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP8.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /Fp"Debug/CmnCtrl1.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /c 
+"E:\codes\mfc\component\CmnCtrl1\animctrl.cpp"
+"E:\codes\mfc\component\CmnCtrl1\CmnCtrl1.cpp"
+"E:\codes\mfc\component\CmnCtrl1\DateTime.cpp"
+"E:\codes\mfc\component\CmnCtrl1\MonthCal.cpp"
+"E:\codes\mfc\component\CmnCtrl1\mtreectl.cpp"
+"E:\codes\mfc\component\CmnCtrl1\notifwdw.cpp"
+"E:\codes\mfc\component\CmnCtrl1\propsht.cpp"
+"E:\codes\mfc\component\CmnCtrl1\toolbar1.cpp"
+"E:\codes\mfc\component\CmnCtrl1\toolbar2.cpp"
+"E:\codes\mfc\component\CmnCtrl1\toolpage.cpp"
+"E:\codes\mfc\component\CmnCtrl1\treecpg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP8.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP9.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /Fp"Debug/CmnCtrl1.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /c 
+"E:\codes\mfc\component\CmnCtrl1\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP9.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSPA.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/CmnCtrl1.pdb" /debug /machine:I386 /out:"Debug/CmnCtrl1.exe" /pdbtype:sept 
+.\Debug\animctrl.obj
+.\Debug\CmnCtrl1.obj
+.\Debug\DateTime.obj
+.\Debug\MonthCal.obj
+.\Debug\mtreectl.obj
+.\Debug\notifwdw.obj
+.\Debug\propsht.obj
+.\Debug\StdAfx.obj
+.\Debug\toolbar1.obj
+.\Debug\toolbar2.obj
+.\Debug\toolpage.obj
+.\Debug\treecpg.obj
+.\Debug\CmnCtrl1.res
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSPA.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+animctrl.cpp
+CmnCtrl1.cpp
+DateTime.cpp
+MonthCal.cpp
+mtreectl.cpp
+notifwdw.cpp
+propsht.cpp
+toolbar1.cpp
+toolbar2.cpp
+toolpage.cpp
+treecpg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+CmnCtrl1.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

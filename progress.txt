@@ -1,0 +1,18 @@
+Already Done:
+1.DockTool
+2.CtrlBars
+3.CmnCtrl1
+4.CmnCtrl2
+5.ListHdr
+6.ProgDlg
+7.Wizard97
+8.MFCIE
+
+Not Yet:
+1.ActiveDoc
+2.API2Help
+3.AtlCon
+4.Image
+5.MyProv
+6.Tear
+7.DBViewer

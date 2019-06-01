@@ -1,0 +1,39 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CmnCtrl2 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP7A.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /Fp"Debug/CmnCtrl2.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /c 
+"E:\codes\mfc\component\CmnCtrl2\spinctrl.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP7A.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP7B.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/CmnCtrl2.pdb" /debug /machine:I386 /out:"Debug/CmnCtrl2.exe" /pdbtype:sept 
+.\Debug\CmnCtrl2.obj
+.\Debug\notifwdw.obj
+.\Debug\progctrl.obj
+.\Debug\propsht.obj
+.\Debug\slidctrl.obj
+.\Debug\spinctrl.obj
+.\Debug\StdAfx.obj
+.\Debug\CmnCtrl2.res
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1.BFC\LOCALS~1\Temp\RSP7B.tmp"
+<h3>Output Window</h3>
+Compiling...
+spinctrl.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+CmnCtrl2.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
